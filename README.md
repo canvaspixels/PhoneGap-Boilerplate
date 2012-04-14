@@ -6,10 +6,10 @@ Its a Furore's team work and joins the godly projects:
   An HTML5 app platform that allows you to author native applications with web technologies.
 - HTML5 BoilerPlate Mobile 3.0 (http://html5boilerplate.com/mobile)
   A best practice baseline for your mobile web app.  
-- XUI 2.3.2 (http://www.xuijs.com/)
-  A super micro tiny dom library for authoring html5 mobile web applications.
-- Emile (https://github.com/madrobby/emile)
-  A no-frills stand-alone CSS animation JavaScript framework.
+- jQuery 1.7.1 (http://jquery.com/)
+  Touch-Optimized Web Framework for Smartphones & Tablets.
+- jQuery Mobile 1.0.1 (http://jquerymobile.com/)
+  Touch-Optimized Web Framework for Smartphones & Tablets.
 
 
 
