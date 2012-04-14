@@ -10,10 +10,11 @@
   <meta name="description" content="">
 
   <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width">
-  <meta http-equiv="cleartype" content="on">
+  <meta name="MobileOptimized"  content="320">
+  <meta name="viewport"         content="width=device-width">
+  <meta http-equiv="cleartype"  content="on">
 
+  <link rel="stylesheet" href="css/jquery.mobile-1.0.1.min.css">
   <!-- Styles to minify with http://tools.w3clubs.com/cssmin/ -->
   <link rel="stylesheet" href="css/style.full.css">
 
@@ -23,23 +24,20 @@
 
 <body>
 
-  <div id="container">
-    <header>
-
-    </header>
-    <div id="main" role="main">
-
+  <div data-role="page" id="home">
+    <div data-role="header">
+      <h1>Header</h1>
     </div>
-
-    <footer>
-
-    </footer>
+    <div data-role="content">
+      <p>Content</p>
+    </div>
+    <div data-role="footer">
+      <h4>Footer</h4>
+    </div>
   </div>
 
-
-  <!-- Grab from specific platform; fall back to normal version if testing local -->
-  <script src="../src-platform/xui-2.3.2.min.js"></script>
-  <script>window.xui || document.write('<script src="js/libs/xui-2.3.2.min.js"><\/script>')</script>
+  <!-- jQuery -->
+  <script src="js/libs/jquery-1.7.1.min.js"></script>
 
   <!-- Scripts to minify with http://jsutility.pjoneil.net/ > COMPACT -->
   <script src="js/helper.min.js"></script>
@@ -47,6 +45,9 @@
   <script src="js/scripts.full.js"></script>
   <!-- end minified scripts-->
 
+  <!-- jQuery Mobile -->
+  <script src="js/libs/jquery.mobile-1.0.1.min.js"></script>
+  
   <!-- Debugger - remove for production -->
   <!-- <script src="https://getfirebug.com/firebug-lite.js"></script> -->
 
