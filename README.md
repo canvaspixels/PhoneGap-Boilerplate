@@ -8,7 +8,7 @@ Its a Furore's team work and joins the godly projects:
   A best practice baseline for your mobile web app.  
 - jQuery 1.7.1 (http://jquery.com/)
   Touch-Optimized Web Framework for Smartphones & Tablets.
-- jQuery Mobile 1.0.1 (http://jquerymobile.com/)
+- jQuery Mobile 1.1.0 (http://jquerymobile.com/)
   Touch-Optimized Web Framework for Smartphones & Tablets.
 
 
